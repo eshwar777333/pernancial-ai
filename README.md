@@ -45,9 +45,9 @@ git clone https://github.com/eshwar777333/pernancial-ai.git
 
 To install the required dependencies for the project, run the following command:
 
-npm install
+## **npm install**
 
 To Run This
 
-npm run dev
+## **npm run dev**
 
